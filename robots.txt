@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://super30careeracademy.com/sitemap.xml
